@@ -118,4 +118,4 @@ npm run dev
 - **Senha padrão para todos:** `diatinf123`
 
 #### 5. Vídeo de demonstração
-- [Link do vídeo de demonstração do projeto](https://github.com/Pedro-Davi669) *(adicionar link do vídeo publicado no GitHub)*
+- [Vídeo de demonstração do projeto em execução](assets/demo.mp4)

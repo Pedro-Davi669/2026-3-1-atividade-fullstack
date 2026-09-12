@@ -15,8 +15,8 @@
 - [x] Construa / Defina o protótipo de interface gráfica web para o aplicativo;
 - [x] Construa o frontend web e a backend api restfull;
 - [x] Atualize os textos de README.md com as suas interações com a IA;
-- [ ] Crie um vídeo do uso do aplicativo e publique no próprio github;
-- [ ] Atualize o texto e o link do vídeo em README.md sobre a execução do aplicativo.
+- [x] Crie um vídeo do uso do aplicativo e publique no próprio github;
+- [x] Atualize o texto e o link do vídeo em README.md sobre a execução do aplicativo.
 
 ---
 ## Observações importantes
